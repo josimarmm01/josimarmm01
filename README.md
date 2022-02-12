@@ -11,7 +11,7 @@ I'm a Android developer :smile:
 
 I have a degree in Information Systems from the Federal University of Espirito Santo
 
-I have more than 4 years experience in mobile software development
+I currently have over 4 years of experience in mobile software development.
 
 I have knowledge of operations research, focusing on metaheuristics, for modeling optimization models
 
