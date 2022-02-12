@@ -8,6 +8,9 @@
 ## About me:
 
 I'm a Android developer :smile:
+I have a degree in Information Systems from the Federal University of Espirito Santo, I have more than 4 years experience in mobile software development
+I have knowledge of operations research, focusing on metaheuristics, for modeling optimization models
+I Love code and create new stuff, i like too much to discover new technologies
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
