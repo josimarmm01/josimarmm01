@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/matrix-neo-code-oOxSXI5D2cvc6kYSvw" width='272'/>
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I" width='272'/>
 
 # Hi, I'm Josimar de Moraes Mistura!
 
