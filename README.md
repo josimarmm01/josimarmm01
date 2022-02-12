@@ -1,5 +1,7 @@
 <img align="right" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" width='272'/>
 
+<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I"> </a></p>
+
 # Hi, I'm Josimar de Moraes Mistura!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josimarmm01)](https://github.com/josimarmm01)
