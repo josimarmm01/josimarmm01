@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="165em" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 # Hi, I'm Josimar de Moraes Mistura!
 
