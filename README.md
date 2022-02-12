@@ -1,3 +1,5 @@
+<img align="right" src="https://media.giphy.com/media/justin-hSLDN6zfh2Yy4ekMWi/giphy.gif" width='272'/>
+
 # Hi, I'm Josimar de Moraes Mistura!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josimarmm01)](https://github.com/josimarmm01)
