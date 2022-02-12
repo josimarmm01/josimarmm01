@@ -1,5 +1,4 @@
-<img align="right" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" width='272'/>
-<p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I"> </a></p>
+<img align="right" src="https://giphy.com/gifs/computer-after-effects-pre-rendered-1lvotGQwhzi6O0gQtV" width='272'/>
 
 # Hi, I'm Josimar de Moraes Mistura!
 
