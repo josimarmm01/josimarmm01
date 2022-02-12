@@ -12,7 +12,7 @@ I'm a Android developer :smile:
 
 <p align="center">
 <a href="https://github.com/josimarmm01">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=josimarmm01&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="josimarmm01"/>
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josimarmm01&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="josimarmm01"/>
+  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=josimarmm01&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="josimarmm01"/>
+  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=josimarmm01&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="josimarmm01"/>
 </a>
 </p>
