@@ -11,7 +11,7 @@
  
 👯 I have a degree in Information Systems from the Federal University of Espirito Santo
 
-🌱 I currently have over 4 years of experience in mobile software development.
+🌱 I currently have over 6 years of experience in mobile software development.
 
 📫 I have knowledge of operations research, focusing on metaheuristics, for modeling optimization models
 
