@@ -7,7 +7,7 @@
 
 ## About me:
 
-👨‍💻 I'm a Android developer :smile:
+👨‍💻 I'm a Mobile developer :smile:
  
 👯 I have a degree in Information Systems from the Federal University of Espirito Santo
 
